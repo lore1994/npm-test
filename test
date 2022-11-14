@@ -1,0 +1,5 @@
+variable ; es una forma de almacenar datos que mas tarde usraemos 
+instrumentos de cuerda ; soan aquellos que se pueden tocar con las manos u otro elemento para emitir el sonido
+funciones son codigos que voy a utilizra muchas veces , van entre parentesis ; siempre retornan en algo y los argumentos van entre llaves.
+if ; funcion que detremina el valor de la variable
+booleanos ; tipos de datos que sirven para definir por true o false
